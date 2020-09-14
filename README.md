@@ -7,5 +7,5 @@
 * Link to Page Two  
 * Link to Page Three  
 ---
-![Alt text](/moises-alex-Tennis Serve-unsplash.jpg "Optional title")
+![Alt text](/moises-alex-Tennis Serve-unsplash.jpg "Practice Makes Perfect")
 
