@@ -1,11 +1,8 @@
-# Fixing Your Fixed Mindset  
-## Choosing a Growth Mindset
+# Table of Contents  
 ---
-**Description **
----
-* Link to Page One  
-* Link to Page Two  
-* Link to Page Three  
----
-![Tennis Serve](moises-alex-Tennis Serve-unsplash.jpg "Practice Makes Perfect")
++ Day 1: [Mindset Link](MINDSET.md "Mindset") and Markdown
++ Day 2:
++ Day 3:
++ Day 4:
++ Day 5: 
 
