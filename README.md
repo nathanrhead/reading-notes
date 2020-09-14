@@ -1,7 +1,7 @@
 # Fixing Your Fixed Mindset  
-## A Strategy for Growth
+## Choosing a Growth Mindset
 ---
-**As with any honed skill, the way you see yourself and your place in the world is a matter of practice and is subject to our will. This means, wondefully, that who you are and what you become are not in the least mutually exclusive, neither is your **
+**Description **
 ---
 * Link to Page One  
 * Link to Page Two  
