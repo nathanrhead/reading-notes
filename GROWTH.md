@@ -7,3 +7,4 @@
 ## 3. Yet: if you can't figure it out, it's only because you've __yet__ to figure it out. 
 ---
 ![Yet](ricardas-brogys-eIyy_f75B_g-unsplash.jpg)
+<span>Photo by <a href="https://unsplash.com/@ricbro?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ricardas Brogys</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
