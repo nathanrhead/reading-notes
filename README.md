@@ -11,4 +11,4 @@
 ---
 > My profiles on [GitHub](https://github.com/nathanrhead){target="_blank" rel="noopener"} and [LinkedIn](linkedin.com/in/nathanrheadcox){target="_blank" rel="noopener"}
 ---
-[Family Photo](F4C0E7A3-ED07-4425-8F28-BF1041F3C49E.jpeg)
+![Family Photo](F4C0E7A3-ED07-4425-8F28-BF1041F3C49E.jpeg)
