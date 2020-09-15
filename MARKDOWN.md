@@ -6,7 +6,7 @@
 
 ### 3. Where to start: find a beginner's guide [here](https://guides.github.com/features/mastering-markdown/){:target="_blank" rel="noopener"}.
 ---
-My favorite practioner of markdown is [Bear](https://bear.app){:target="_blank" rel="noopener"}
+My favorite practioner of markdown is [Bear](https://bear.app){:target="_blank" rel="noopener"}.
 
 ![Bear Icon](bear-icon.jpg)
 
