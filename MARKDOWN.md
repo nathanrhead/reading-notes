@@ -5,6 +5,6 @@
 ---
 My favorite practioner of markdown: [Bear](https://bear.app)
 
-![Bear Icon](bear-icon.jpg)
+![Bear Icon](bear-icon.jpg target=_blank)
 
 [<--home-->](README.md)
