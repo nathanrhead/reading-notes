@@ -1,4 +1,5 @@
 # Table of Contents  
+## About Me
 ---
 + Day 1: [Mindset](MINDSET.md) and [Markdown](MARKDOWN.md)
 + Day 2:
