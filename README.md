@@ -1,4 +1,5 @@
-# Table of Contents  
+# Nathan Rhead Cox
+## Table of Contents  
 ---
 + Day 1: [Mindset](MINDSET.md) and [Markdown](MARKDOWN.md) and [Text Editors](TEXTEDITORS.md)
 + Day 2:
