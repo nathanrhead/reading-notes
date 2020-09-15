@@ -3,7 +3,7 @@
 ---
 
 + Day 1: [Mindset](MINDSET.md) and [Markdown](MARKDOWN.md) and [Text Editors](TEXTEDITORS.md)
-+ Day 2:
++ Day 2: [About Git](ABOUTGIT.md) and 
 + Day 3:
 + Day 4:
 + Day 5: 
