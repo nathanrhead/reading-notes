@@ -3,6 +3,7 @@
 + Text Editors vs. Code Editors
   + Text editors, like Word or Pages, are used to layout, format, and edit text.
   + Code editors are used to write, review, and edit code.
+  + This terminology is often used interchangeably. 
    ---
 + How to Choose a Code Editor
   + Somewhat of an arbitrary or personal choice, if not working alone, choose the one most widely used at your school or place of work.
