@@ -9,7 +9,9 @@
 
 > This belief makes working for your goals possible, because without it, you'll likely quit or fail to start at all.  
 
-> A powerful serve is the product of practice plus the belief that one is capable of more.  
+> A powerful serve is the product of practice and the belief that perfection is worth chasing and is within reach.  
+
+> [Three Ways to Engender a Growth Mindset](GROWTH.md)
 
 ---
 ![Tennis Serve](moises-alex-Tennis Serve-unsplash.jpg "Practice Makes Perfect")
