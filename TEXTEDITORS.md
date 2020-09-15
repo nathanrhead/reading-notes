@@ -12,7 +12,7 @@
     1. It serves every need you, as a developer, have;
     2. You enjoy using it. 
 
-+ The Most Important Features of a Good Code Editor, per [The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) {target="_blank" rel="noopener"}, are the following: 
++ The Most Important Features of a Good Code Editor, per [The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) {:target="_blank" rel="noopener"}, are the following: 
   1. dode completion;
   2. syntax highlighting;
   3. a nice variety of themes (to reduce eye strain and fatigue);
