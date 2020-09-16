@@ -94,11 +94,10 @@ VIII. Extra Markup
         iv. span: "The `<span>` element acts like an inline equivalent of the `<div>` element. It is used to either:
             a. "contain a section of text where there is no other suitable element to differentiate it from its surrounding text, or;
             b. contain a number of inline elements.
-    E. Embedding using iframes: "An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame." E.g., google map on a web site. 
-    F. Using the `<meta>` element
-        i. "The `<meta>` element lives inside the <head> element and contains information about that web page."
-        ii. "It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created
-it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)"
+        E. Embedding using iframes: "An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame." E.g., google map on a web site. 
+        F. Using the `<meta>` element
+            i. "The `<meta>` element lives inside the <head> element and contains information about that web page."
+            ii. "It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)"
     G. Adding special symbols: "There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.) Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters."
         i. left-angeled bracket: &lt; or &#60
         ii. Ampersand: &amp; or &#38
