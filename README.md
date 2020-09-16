@@ -4,7 +4,7 @@
 
 + Day 1: [Mindset](MINDSET.md) and [Markdown](MARKDOWN.md) and [Text Editors](TEXTEDITORS.md)
 + Day 2: [About Git](ABOUTGIT.md) and [HTML](HTML.md)
-+ Day 3:
++ Day 3: [CSS](CSS.md) and 
 + Day 4:
 + Day 5: 
 
