@@ -30,15 +30,18 @@ III. Steps to wire-framing your site.
     D. How `(often)`: Determine whether the site needs frequent updating based on the frequency a discrete user may visit.
 
 IV. Site Maps: A diagram of the pages used to structure the site
+
     A. Card sorting: "placing each piece of information that a visitor might need to know on a separate piece of paper and then organizing the related information into groups."
     B. "The groups of information are then turned into the diagram that is known as the site map."
     C. "If the site is large and is compartmentalized into sections, each section might require its own section homepage to link to all of the information within it."
 
 V. Wireframes: "a simple sketch of the key information that needs to go on each page of a site."
+
     A. "By creating a wireframe you can ensure that all of the information that needs to be on a page is included."
     B. "You should not include the color scheme, font choices, backgrounds or images for the website in the wireframe."
 
 VI. Design: "Organizing and prioritizing information on a page helps users understand its importance and what order to read it in."
+
     A. Content
     B. Prioritizing using visual hierarchy: "By making parts of the page look distinct from surrounding content, designers draw attention to (or away from) those items."
         i. Size
@@ -51,12 +54,12 @@ VI. Design: "Organizing and prioritizing information on a page helps users under
         iv. White space: "Placing related items closer together and leaving a bigger gap between unrelated items."
         v. Background color: "A background color placed behind related items to emphasize their connection."
         vi. Borders
-
     D. Other defining elements
         i. Consistency
         ii. Headings
     
 VII. Navigations
+
     A. Concise: "the navigation should be quick and easy to read."
     B. Clear: "Users should be able to predict the kind of information that they will find on the page before clicking on the link."
     C. Selective: "The primary navigation should only reflect the sections or content of the site."
@@ -65,6 +68,7 @@ VII. Navigations
     F. Consistency: "Although secondary navigation will change from page to page, it is best to keep the primary navigation exactly the same."
 
 VII. HTML5 Layout
+
     A. "HTML5 introduces a new set of elements that allow you to divide up the parts of a page `(instead of using div for them)`."
         i. Header and footer
         ii. nav: "The nav element is used to contain the major navigational blocks on the site such as the primary site navigation."
@@ -76,6 +80,7 @@ VII. HTML5 Layout
     B. Div: "the `<div>` element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated."
 
 VIII. Extra Markup
+
     A. Different versions of HTML
         i. HTML4: 1997
         ii. XHTML 1.0: 2000
