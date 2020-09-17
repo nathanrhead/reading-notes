@@ -103,7 +103,7 @@ VIII. Extra Markup
         ii. Ampersand: &amp; or &#38
         iii. Copyright symbol: &copy; or &#169
 
-<a href="README.md"><button type="button">Home</button></a>
+[<--home-->](README.md)
 
 
 
