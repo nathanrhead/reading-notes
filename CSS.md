@@ -37,7 +37,7 @@ I. Chapter 10: Introducing CSS
         i. Case sensitive.
         ii. General types of selectors
 
-    ![General CSS Selectors](General CSS Selectors.jpeg)
+    ![General CSS Selectors](Images/General CSS Selectors.jpeg)
 
     F. "How CSS Rules Cascade"
         

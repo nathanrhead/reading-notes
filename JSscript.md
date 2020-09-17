@@ -1,6 +1,7 @@
 # Notes on Writing a Script for a Web Page
 
 ## from _JavaScript and JQuery_ by Jon Duckett
+
 ---
 I. Defining the Related Roles of HTML, CSS, and JS: "These three layers form the basis of a popular approach to building web pages called progressive enhancement."
 
@@ -13,9 +14,9 @@ II. Creating Basic JavaScript
     A. How to use objects & methods: 
         i. document.write: don't ever actually use! `[How old is this book?]
     B. "JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML": "When the browser comes across a <script>element, it stops to load the script and then checks to see if it needs to do anything."
-    
+
 III. Summary
-    
+
     A. "It is best to keep JavaScript code in its own JavaScript file."
     B. "The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file)."
 
