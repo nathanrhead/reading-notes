@@ -37,8 +37,7 @@ I. Chapter 10: Introducing CSS
         i. Case sensitive.
         ii. General types of selectors
 
-        <embed src="/General CSS Selectors_Jon Duckett.pdf" type="application/pdf">
-
+        ![General CSS Selectors](General CSS Selectors.jpeg)
 
 
 <a href="README.md"><button type="button">Home</button></a>
