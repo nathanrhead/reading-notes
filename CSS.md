@@ -29,7 +29,7 @@ I. Chapter 10: Introducing CSS
         <link href="css/styles.css" type="text/css" rel="stylesheet" />
         ---
         iv. Benefits of external over internal linking
-            a. "Allows all pages to use the same style rules (rather than repeating them in each page)";
+            a. "Allows all pages to use the same style rules (rather than repeating them in each page)."
             b. "Keeps the content separate from how the page looks."
             c. "Means you can change the styles used across all pages by altering just one file (rather than each individual page)."
         
@@ -37,7 +37,6 @@ I. Chapter 10: Introducing CSS
         i. Case sensitive.
         ii. General types of selectors
 
-        ![General CSS Selectors](General CSS Selectors.jpeg)
-
+        ![General CSS Selectors](Images/General CSS Selectors.jpeg)
 
 <a href="README.md"><button type="button">Home</button></a>
