@@ -44,4 +44,4 @@ IV. Basic JavaScript Instructions
         vi. "If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word."
     J. Isn't var Out of date, having been replaced by let? If so, why are we still learning var?
 
-    ![<--home-->](README.md)
+[<--home-->](README.md)
