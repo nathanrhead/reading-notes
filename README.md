@@ -7,7 +7,7 @@
 + Day 1: [Mindset](MINDSET.md) and [Markdown](MARKDOWN.md) and [Text Editors](TEXTEDITORS.md)
 + Day 2: [About Git](ABOUTGIT.md) and [HTML](HTML.md)
 + Day 3: [CSS](CSS.md) and [JavaScript Intro](JSscript.md) and [Computer Architecture and Logic](CompArchLogic.md)
-+ Day 4:
++ Day 4: [Programming with JavaScript](Program_withJS.md) and [Operators and Loops](OperatorsLoops.md)
 + Day 5: 
 
 ---
