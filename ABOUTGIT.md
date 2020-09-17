@@ -12,13 +12,9 @@
 
 # Git Terminal Commands (short list):
 
----
-
 + Cloining: git clone https://example.example: pulls a respository from a server into your local environment.
 
 + File status: git status: indicates the repos's relevant branch and the file's status (tracked, modified, or untracked).
-
----
 
 + Track (or add) one file: git add filename.
 + Track (or add) all files: git add . (per Roger) or git add * (per Udemy).
@@ -26,8 +22,6 @@
 + Commit all changes: git commit -a: commits a snapshot of all modifications to tracked files in the working directory. 
 + Push a repo to the server (GitHub): git push origin master.
 + Pull a repo from the server: git pull origin master. 
-
----
 
 + Stash changes: git stash: saves changes without committing them. 
 + Continue working on these changes: git stash apply: to retrieve these uncommitted changes.
