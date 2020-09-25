@@ -5,20 +5,21 @@
 ---
 ### Code 101
 
-+ Day 1: [Mindset](Code 102/MINDSET.md) and [Markdown](MARKDOWN.md) and [Text Editors](TEXTEDITORS.md)
-+ Day 2: [About Git](ABOUTGIT.md) and [HTML](HTML.md)
-+ Day 3: [CSS](CSS.md) and [Computer Architecture and Logic](CompArchLogic.md)
-+ Day 4: [Programming with JavaScript](Program_withJS.md) and [Operators and Loops](OperatorsLoops.md)
-+ Day 5: 
++ Day 1: [Mindset](Code-102/MINDSET.md) and [Markdown](Code-102/MARKDOWN.md) and [Text Editors](Code-102/TEXTEDITORS.md)
++ Day 2: [About Git](Code-102/ABOUTGIT.md) and [HTML](Code-102/HTML.md)
++ Day 3: [CSS](Code-102/CSS.md) and [Computer Architecture and Logic](Code-102/CompArchLogic.md)
++ Day 4: [Programming with JavaScript](Code-102/Program_withJS.md) and [Operators and Loops](Code-102/OperatorsLoops.md)
 
 ---
 
 ### Code 201
 
-+ [Week 1](201week1.md)
-+ [Week 2](201week2.md)
-+ [Week 3](201week3.md)
-+ [Week 4](201week4.md)
++ [Week 1](Code-201/201week1.md)
++ [Week 2](Code-201/201week2.md)
++ [Week 3](Code-201/201week3.md)
++ [Week 4](Code-201/201week4.md)
+
+---
 
 ## About Me
 
