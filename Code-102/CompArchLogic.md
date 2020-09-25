@@ -122,4 +122,3 @@ V. Hardware and Software: Erica, engineering manager at Amazon; Jerome, program 
     G. You make a computer smart. 
 
 [<--home-->](/README.md)
-    
