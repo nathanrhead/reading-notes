@@ -11,6 +11,6 @@
 ---
 My favorite practioner of markdown is [Bear](https://bear.app){:target="_blank" rel="noopener"}.
 
-![Bear Icon](Images/bear-icon.jpg)
+![Bear Icon](/Images/bear-icon.jpg)
 
-[<--home-->](README.md)
+[<--home-->](/README.md)

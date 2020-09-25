@@ -16,7 +16,7 @@
 > [Three Ways to Engender a Growth Mindset](GROWTH.md)
 
 ---
-![Tennis Serve](Images/moises-alex-Tennis Serve-unsplash.jpg "Practice Makes Perfect")
+![Tennis Serve](/Images/moises-alex-Tennis Serve-unsplash.jpg "Practice Makes Perfect")
 <span>Photo by <a href="https://unsplash.com/@arnok?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Moises Alex</a> on <a href="https://unsplash.com/@arnok?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-[<--home-->](README.md)
+[<--home-->](/README.md)

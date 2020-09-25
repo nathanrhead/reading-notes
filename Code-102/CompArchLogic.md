@@ -121,5 +121,5 @@ V. Hardware and Software: Erica, engineering manager at Amazon; Jerome, program 
         iii. Switches among all the programs that you're running, meaning that you're only running one program at a time, technically speaking. 
     G. You make a computer smart. 
 
-[<--home-->](README.md)
+[<--home-->](/README.md)
     

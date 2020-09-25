@@ -26,7 +26,7 @@
 + Stash changes: git stash: saves changes without committing them. 
 + Continue working on these changes: git stash apply: to retrieve these uncommitted changes.
 
-![Plane Pic](Images/paul-hanaoka-Abida9j2_F0-unsplash.jpg)
+![Plane Pic](/Images/paul-hanaoka-Abida9j2_F0-unsplash.jpg)
 <span>Photo by <a href="https://unsplash.com/@plhnk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paul Hanaoka</a> on <a href="https://unsplash.com/s/photos/github?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-[<--home-->](README.md)
+[<--home-->](/README.md)
