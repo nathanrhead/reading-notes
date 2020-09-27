@@ -3,6 +3,7 @@
 ## Table of Contents  
 
 ---
+
 ### Code 101
 
 + Day 1: [Mindset](Code-102/MINDSET.md){:target="_blank" rel="noopener"} and [Markdown](Code-102/MARKDOWN.md){:target="_blank" rel="noopener"} and [Text Editors](Code-102/TEXTEDITORS.md){:target="_blank" rel="noopener"}
@@ -28,4 +29,4 @@ A twin and the youngest of fifteen children, Nathan currently finds himself in t
 ---
 > My profiles on [GitHub](https://github.com/nathanrhead){:target="_blank" rel="noopener"} and [LinkedIn](https://www.linkedin.com/in/nathanrheadcox/){:target="_blank" rel="noopener"}
 ---
-![Family Photo](Images/F4C0E7A3-ED07-4425-8F28-BF1041F3C49E.jpeg)
+![Family Photo](F4C0E7A3-ED07-4425-8F28-BF1041F3C49E.jpeg)

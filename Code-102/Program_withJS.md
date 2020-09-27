@@ -10,8 +10,8 @@ I. Pages 1 - 12: Intro
         i. **Accessing* content: "You can use JavaScript to select any element, attribute, or text from an HTML "
         ii. **Modifying** content: "You can use JavaScript to add elements, attributes, and text to the page, or remove them."
         iii. **Program** rules: "You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page."
-        iv. **Reacting** to events: "You can specify that a script should run when a specific event has occurred."
-    
+        iv. **Reacting** to events: "You can specify that a script should run when a specific event has occurred.
+
 II. Pages 13 - 24, Chapter 1: The ABCs of Programming
 
     A. "A script is a series of instructions that a computer can follow to achieve a goal" like:
@@ -65,7 +65,7 @@ III. Pages 74 - 79: Expressions + Operators
             c. To change the priority, use parentheses around the first calculation. 
         iv. String operator is + and is used to join two strings. 
 
-IV. Pages 88 - 94: Functions 
+IV. Pages 88 - 94: Functions
 
     A. Purpose: "Functions let you group a series of statements together to perform a specific task."
     
