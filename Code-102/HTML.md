@@ -9,7 +9,7 @@ I. Audience: the foremost principle for guiding your design choices.
     E. Computer saavy and usage, including preferred devices
     F. If a company, its size, the role(s) of its representatives visiting the site, whether they're visiting for the company's or its clients' sake, and its budget
 
-II. Motives: why your site's visitors come. 
+II. Motives: why your site's visitors come.
 
     A. Motivations
         i. General entertainment or a specific aim?
@@ -57,7 +57,7 @@ VI. Design: "Organizing and prioritizing information on a page helps users under
     D. Other defining elements
         i. Consistency
         ii. Headings
-    
+
 VII. Navigations
 
     A. Concise: "the navigation should be quick and easy to read."
@@ -104,7 +104,3 @@ VIII. Extra Markup
         iii. Copyright symbol: &copy; or &#169
 
 [<--home-->](/README.md)
-
-
-
-
