@@ -254,4 +254,4 @@ V. Desinging a goal
 
 [<--back](../201week1.md)
 
-[<--home-->](../README.md)
+[<--home-->](../../README.md)
