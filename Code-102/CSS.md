@@ -83,4 +83,4 @@ II. Chapter 11: Color
 
 <!-- <a href="README.md"><button type="button">Home</button></a> -->
 
-[<--Home-->](/README.md)
+[<--Home-->](../README.md)

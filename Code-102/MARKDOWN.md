@@ -1,4 +1,4 @@
-# Definitions and Early Notes
+# Definitions and Early Notes on HTML
 
 ---
 
@@ -13,4 +13,4 @@ My favorite practioner of markdown is [Bear](https://bear.app){:target="_blank" 
 
 ![Bear Icon](Images_102/bear-icon.jpg)
 
-[<--home-->](/README.md)
+[<--home-->](../README.md)

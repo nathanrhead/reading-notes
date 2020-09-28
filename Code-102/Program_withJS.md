@@ -96,4 +96,4 @@ IV. Pages 88 - 94: Functions
             a. Specify the values that the function should use in the parentheses. These values are called arguments and may be provided as values or variables. 
             b. Ex.: getArea(3, 5); or getArea(wallWidth, wallHeight);
 
-[<--home-->](/README.md)
+[<--home-->](../README.md)

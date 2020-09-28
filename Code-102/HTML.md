@@ -103,4 +103,4 @@ VIII. Extra Markup
         ii. Ampersand: &amp; or &#38
         iii. Copyright symbol: &copy; or &#169
 
-[<--home-->](/README.md)
+[<--home-->](../README.md)

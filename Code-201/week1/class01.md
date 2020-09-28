@@ -252,5 +252,5 @@ V. Desinging a goal
     b. List the steps required to acheive it
     c. Sketch out the tasks in a flowchart
 
-[<--back](/code-201/201week1.md)
-[<--home-->](/README.md)
+[<--back](code-201/201week1.md)
+[<--home-->](../README.md)
