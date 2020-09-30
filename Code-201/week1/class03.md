@@ -77,7 +77,7 @@ II. Create borders around boxes
         1. auto: "If you want to center a box on the page (or center it inside the element that it sits in), you can set the left-margin and right-margin to auto."
         2. width: "In order to center a box on the page, you need to set a width for the box (otherwise it will take up the full width of the page)."
     D. Change inline/block: the display property (often used to create nav for a site)
-        1. Display: "llows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page."
+        1. Display: "allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page."
         2. It's values:
             a. inline: "This causes a block-level element to act like an inline element."
             b. block: "This causes an inline element to act like a block-level element."
@@ -93,6 +93,7 @@ II. Create borders around boxes
         3. Blur distance: "If omitted, the shadow is a solid line like a border."
         4. Spread of shadow: "If used, a positive value will cause the shadow to expand in all directions, and a negative value will make it contract."
         4. "The inset keyword can also be used before these values to create an inner-shadow."
+    G. Rounded corners: the border-radius property (The value indicates the size of the radius in pixels.)
 
 III. Set margins and padding for boxes
 
