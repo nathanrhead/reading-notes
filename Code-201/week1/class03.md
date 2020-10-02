@@ -5,11 +5,13 @@
 ### Chapter 3: Lists (pp. 62 - 73)
 
 I. HTML offers 3 types of lists
+
     A. Ordered lists: numbered lists.
     B. Unordered lists: bulleted lists.
     C. Definition lists: "made up of a set of terms along with the definitions for each of those terms."
 
 II. Syntax
+
     A. `<ol>`: ordered list.
     B. `<ul>`: unordered list.
     C. `<li>`: list item.
