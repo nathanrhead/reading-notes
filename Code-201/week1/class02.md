@@ -171,6 +171,6 @@ II. Chapter 4: Decisions and Loops (pp. 145 - 162)
         A. "The if statement evaluates . . . a condition. If the condition evaluates to true, any statements in the subsequent code block are executed."
         B. "The if...else statement checks a condition. If it resolves to true, the first code block is executed. If the condition resolves to false the second code block is run instead."
 
-[<--back](../201week1.md)
+[<--back](201week1.md)
 
 [<--home-->](../../README.md)

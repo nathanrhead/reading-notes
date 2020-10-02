@@ -212,6 +212,6 @@ IV. Font formats
         3. :focus = "his is applied when an element has focus. Any element that you can interact with, such as a link you can click on or any form control can have focus. Focus occurs when a browser discovers that you are ready to interact with an element on the page. For example, when your cursor is in a form input ready to accept typing, that element is said to have focus. It is also possible to use the tab key on your keyboard to move through the interactive items on a page. When pseudo-classes are used, they should appear in this order: :link, :visited, :hover, :focus, :active."
     P. ![Attribute selectors](../Images/CSS Attribute Selectors copy.jpg)
 
-[<--back](../201week1.md)
+[<--back](201week1.md)
 
 [<--home-->](../../README.md)
