@@ -15,10 +15,10 @@
 
 ### Code 201
 
-+ [Week 1](Code-201/201week1.md){:target="_blank" rel="noopener"}
-+ [Week 2](Code-201/201week2.md){:target="_blank" rel="noopener"}
-+ [Week 3](Code-201/201week3.md){:target="_blank" rel="noopener"}
-+ [Week 4](Code-201/201week4.md){:target="_blank" rel="noopener"}
++ [Week 1](Code-201/week1/201week1.md){:target="_blank" rel="noopener"}
++ [Week 2](Code-201/week2/201week2.md){:target="_blank" rel="noopener"}
++ [Week 3](Code-201/week3/201week3.md){:target="_blank" rel="noopener"}
++ [Week 4](Code-201/week4/201week4.md){:target="_blank" rel="noopener"}
 
 ---
 
