@@ -107,16 +107,19 @@ III. Contrast; readable text: "When picking foreground and background colors, it
 ### Chapter 12: Text (pp. 264 - 299)
 
 I. Typeface terminology
+    
     A. serif: "Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs. . . . In print, serif fonts were traditionally used for long passages of text because they were considered easier to read."
     B. sans-serif: "Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design." [It's funny to me how the author cites preference in the definition of serif fonts but elides that reference when touting the cleanness of sans-serif fonts, when, of course, both positions are matters of opinion and taste.]
     C. Monospace: "Every letter in a monospace (or fixed-width) font is the same width. (Non-monospace fonts have different widths.) Monospace fonts are commonly used for code because they align nicely, making the text easier to follow."
 II. Choosing a typeface
+    
     A. "When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer."
     B. "sites often use a small set of typefaces that are installed on most computers (shown above). There are some techniques to get around this limitation (which are covered on pages 271-272)."
         a. "Browsers are supposed to support at least one typeface from each of the [following] groups": monospace, cursive, fantasy.
         b. To ensure that something close to your desired font is displayed, "it is common to add the generic font name after your preferred choice of typefaces", e.g., "font-family: Georgia, Times, serif;"
     C. "It is possible to specify more than one typeface and create an order of preference (in case the user does not have your first choice of typeface installed). This is sometimes referred to as a font stack."
 III. Text displayed
+    
     A. PC < Mac: "If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly. But if you design on a PC, then it should look fine on a Mac."
     B. Ways around display discrepancies:
         1. Images: "You can create a graphic that contains the text as you want it to appear in a different typeface."
@@ -140,6 +143,7 @@ III. Text displayed
             d. src: path to the font
             e. format: indicates in which format the font is to be supplied in.
 IV. Font formats
+
     A. "Different browsers support different formats for fonts (in the same way that they support different audio and video formats), so you will need to supply the font in several variations to reach all browsers."
     B. [All the other info here seems out of date. Maybe I'm being impetuous. But its referencing iOS 4.2 . . . and Chrome 6+ . . . my Chrome is at version 85. etc.]
     C. font-weight: bold text.
