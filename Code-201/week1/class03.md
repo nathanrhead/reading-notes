@@ -99,15 +99,18 @@ III. Set margins and padding for boxes
 
 IV. Show and hide boxes
 
-
 ---
 
 ## _JavaScript & jQuery_ by Jon Duckett
 
 ### Review from Reading 02, Chapter 2: Basic JavaScript Instructions (pp. 70 - 73)
 
-I. 
+I.
 
 ### Chapter 4: Decisions and Loops (starting from switch statements) (pp. 162 - 182)
 
-I. 
+I.
+
+[<--back](../201week1.md)
+
+[<--home-->](../../README.md)
