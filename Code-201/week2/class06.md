@@ -1,17 +1,16 @@
 # Day 6 Readings : Problem Domain, Objects, and the DOM
 
-## [Understanding The Problem Domain Is The Hardest Part Of Programming
-](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+## [Understanding The Problem Domain Is The Hardest Part Of Programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 I. "What is the hardest thing about writing code?": the problem domain
 
 II. Short of defining the problem domain--which is what should have happened first thing in this limpid article--here are the difficulties that characterize the problem domain or are created by it:
-    
+
     A. "The real world is a messy place.  Many of the problem domains we face as programmers are difficult to understand and look completely different depending on your viewpoint."
     B. "As programmers, we also are often not given complete information about the problem domain, so we don’t even have the information we need to understand it." At CF, they like to call this "ambiguitiy," though this term is, at best ambiguously applied here.
-    
+
 III. "Programming is easy if you understand the problem domain." [At this early point in my expensive studies, this statement seems, at BEST, disingenuous. Good thing no one but me is going to read these notes. I'm talking to you, future self.]
-    
+
     A. This is a stupid article. He poo-poos the waterfall approach, where he was given all the specs and possible uses in advance and found that, in this context, code was easy to write;
     B. But, then, says, "Programming is easy if you understand the problem domain. . . . I’ve spent days trying to implement a feature only to finally go back and talk to a product owner and hash out completely how something should work and why it should work in a particular way, only to go back to my desk and crank out the code in a matter of hours."
     C. That is, the Agile approach sucks, but I can't say that in this day and age, is what this blogger who has been recommended to us seems to be saying. 
@@ -25,7 +24,7 @@ III. "Programming is easy if you understand the problem domain." [At this early 
 ### Chapter 3: “Object Literals” (pp.100-105)
 
 I. Definitions
-    
+
     A. "Objects group together a set of variables and functions to create a model of a something you would recognize from the real world."
     B. "In an object, variables and functions take on new names."
         1. "IN an object: variables bcome known as properties."
@@ -34,9 +33,9 @@ I. Definitions
         1. "Like variables and named functions, properties and methods have a name and a value. In an object, that name is called a key."
         2. "An object cannot have two keys with the same name. This is because keys are used to access their corresponding values."
         3. "The value of a property can be a string, number, Boolean, array, or even another object. The value of a method is always a function."
-    
+
 II. Name-value pairs
-    
+
     A. HTML: attribute names and values.
     B. CSS: property names and values.
     C. JavaScript
@@ -44,7 +43,7 @@ II. Name-value pairs
         2. "Arrays have a name and a group of values. (Each item in an array is a name/value pair because it has an index number and a value.)"
         3. "Named functions have a name and value that is a set of statements to run if the function is called."
         4. "Objects consist of a set of name/value pairs (but the names are referred to as keys)."
-    
+
 III. Creating an object: leteral notation
 
     A. "Literal notaiton is the easiest and most popular way to create objects."
@@ -65,7 +64,7 @@ IV. Accessing an object and dot notation
 ### Chapter 5: “Document Object Model” (pp.183-242): the DOM
 
 I. Definition of the DOM  
-    
+
     A. "The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window."
     B. "The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules. It is implemented by all major browser makers, and covers two primary areas:"
         1. "Making a model of the HTML page":
@@ -92,7 +91,7 @@ II. The DOM tree, or model of a webpage
     B. "Each node is an object with methods and properties. Scripts access and update this DOM tree (not the source HTML file). Any changes made to the DOM tree are reflected in the browser."
 
     ![The DOM Tree](../DOM Tree.jpg)
-    
+
 III. Working with the DOM tree 
 
     A. Accessing and updating the DOM tree
