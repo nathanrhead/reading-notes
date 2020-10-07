@@ -77,7 +77,7 @@ II. Other elements
   B. Spanning rows: "ou may also need entries in a table to stretch down across more than one row. The rowspan attribute can be used on a `<th>` or `<td>` element to indicate how many rows a cell should span down the table."
   C. Long tables
 
-    1. <thead>: "The headings of the table should sit inside the <thead> element." So, <tabel><thead><tr><th><</th></tr></thead>
+    1. <thead>: "The headings of the table should sit inside the <thead> element." So, <table><thead><tr><th><</th></tr></thead>
     2. <tbody>: "The body should sit inside the <tbody> element."
     3. <tfoot>: "The footer belongs inside the <tfoot> element."
 
