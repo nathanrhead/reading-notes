@@ -125,9 +125,40 @@ III. Form structure
 
 IV. Form Validation: the message you get when you don't complete a form field correctly.
     A. Done in HTML5 or in JS.
-    B. "Validation helps ensure the user enters information in a form that the server will be able to understand when the form is submitted."
+    B. "Validation helps ensure the user enters information in a form that the server will be able to understand when the form is submitted." 
 
 ## Chapter 14: Lists, Tables & Forms (pp. 330 - 357), from _HTML & CSS_ by Jon Duckett
+
+I. Bullet Points
+
+    A. list-style-type: "[A]]llows you to control the shape or style of a bullet point (also known as a marker)."
+        1. used for rules applying to the ol, ul and li elements. 
+        2. UL bullet options: 
+            a. none
+            b. disc
+            c. circle
+            d. square
+        3. OL options:
+            a. decimal (1 2 3)
+            b. decimal-leading-zero (01 02 03)
+            c. lower-alpha (a b c)
+            d. upper-alpha (A B C)
+            e. lower-roman (i. ii. iii.)
+            f. upper-roman (I II III)
+    
+    B. list-style-image
+        1. "You can specify an image to act as a bullet point using the list-style-image property" for ul and li elements.
+        2. "The value starts with the letters url and is followed by a pair of parentheses. Inside the parentheses, the path to the image is given inside double quotes."
+
+    C. list-style-position: "Lists are indented into the page by default and the list-style- position property indicates whether the marker should appear on the inside or the outside of the box containing the main points."
+        1. outsdie: "The marker sits to the left of the block of text."
+        2. inside: "The marker sits inside the box of text (which is indented)."
+    
+    D. list-style: "As with several of the other CSS properties, there is a property that acts as a shorthand for list styles. It is called list-style, and it allows you to express the markers' style, image and position properties in any order."
+
+II. Table Properties
+
+    A. 
 
 ## Chapter 6: Events (pp. 243 - 292), from _JavaScript & jQuery_ by Jon Duckett
 

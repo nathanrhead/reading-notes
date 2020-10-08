@@ -87,6 +87,6 @@ III. Learn the difference between fixed width and liquid layouts, and how they a
 
 IV. Find out how designers use grids to make their page designs look more professional.
 
-[<--back](201week1.md)
+[<--back](201week2.md)
 
 [<--home-->](../../README.md)

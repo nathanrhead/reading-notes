@@ -220,3 +220,7 @@ Here's some tips to follow when building your own domain models.
 1. Use the `this` variable within methods so you can access the object's properties and methods from **inside**.
 
 Good luck!
+
+[<--back](201week2.md)
+
+[<--home-->](../../README.md)
