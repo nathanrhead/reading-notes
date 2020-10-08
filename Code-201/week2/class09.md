@@ -123,8 +123,10 @@ III. Form structure
 
     G. <legend>: "The <legend> element can come directly after the opening <fieldset> tag and contains a caption which helps identify the purpose of that group of form controls."
 
-IV. Form Validation: the message you get when you don't complete a form field correctly. 
-    A. Done in HTML5 or in JS. 
+IV. Form Validation: the message you get when you don't complete a form field correctly.
+    A. Done in HTML5 or in JS.
     B. "Validation helps ensure the user enters information in a form that the server will be able to understand when the form is submitted."
 
+## Chapter 14: Lists, Tables & Forms (pp. 330 - 357), from _HTML & CSS_ by Jon Duckett
 
+## Chapter 6: Events (pp. 243 - 292), from _JavaScript & jQuery_ by Jon Duckett
