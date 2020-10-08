@@ -130,3 +130,7 @@ IV. Form Validation: the message you get when you don't complete a form field co
 ## Chapter 14: Lists, Tables & Forms (pp. 330 - 357), from _HTML & CSS_ by Jon Duckett
 
 ## Chapter 6: Events (pp. 243 - 292), from _JavaScript & jQuery_ by Jon Duckett
+
+[<--back](201week2.md)
+
+[<--home-->](../../README.md)

@@ -109,3 +109,7 @@ III. Working with the DOM tree
                 ii. previousSibling / nextSibling: "Selects the previous or next sibling from the DOM tree."
                 iii. firstChild / lastChild: "Select the first or last child of the current element."
         2. "Use its text content, child elements, and attributes."
+
+[<--back](201week2.md)
+
+[<--home-->](../../README.md)
