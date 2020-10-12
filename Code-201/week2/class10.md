@@ -22,7 +22,6 @@ I. Order of execution: how scripts are processed
       b. Function-level scope: "When a variable is declared within a function, it can only be used within that function. This is because it has function-level scope."
 
     
-
 The console and dev tools
 
 II. Common problems
