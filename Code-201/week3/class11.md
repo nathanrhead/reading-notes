@@ -139,8 +139,11 @@ I. Search Engine Optimization (SEO)
 II. Analyzing your visitors using Google analytics
 
   A. Signing up: google.com/analytics; "The site will give you a piece of tracking code which you need to put on every page of your site."
+  
   B. How it works: "Every time someone loads a page of your site, the tracking code sends data to the Google servers where it is stored. Google then provides a web- based interface that allows you to see how visitors use your site."
+  
   C. The tracking code: "A tracking code is provided by Google Analytics for each website you are tracking. It should appear just before the closing </head> tag. The code does not alter the appearance of your web pages."
+  
   D. Numbers of visitors
 
     1. Visits: "This is the number of times people have come to your site. If someone is inactive on your site for 30 minutes and then looks at another page on your site, it will be counted as a new visit."
@@ -175,14 +178,19 @@ II. Analyzing your visitors using Google analytics
 III. Domain names and hosting
 
   A. Domain names: "Your domain name is your web address (e.g. google.com or bbc. co.uk). There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name."
+  
   B. "With the exception of some very large sites, most websites live on web servers run by web hosting companies. This is usually far cheaper and more reliable than trying to run your own web servers."
+  
   C. Email accounts: "Most hosting companies will provide email servers with their web hosting packages. You will want to check the size of mailbox you are allowed and the number of mailboxes you can use."
+  
   D. Server-side languages and databases: "If you are using a content management system, it will likely use a server-side programming language and a database (such as PHP with a MySQL database, or ASP.Net with a SQL Server database). Be sure to check that your hosting company supports the technologies your software needs to run."
 
 IV. FTP & third-party tools
 
   A. File Transfer Protocol: "As the name suggests, [FTP] allows you to transfer files across the Internet from your computer to the web server hosting your site."
+  
   B. "Some hosting companies offer tools to upload files to their servers using a web browser, but it is more common to use an FTP program as they are faster at transmitting files."
+  
   C. "There are a wide variety of sites that offer services commonly created by web developers (to save you having to build them yourself)."
 
 ### Chapter 9: Flash, Video, & Audio (pp. 200 - 205 only)
