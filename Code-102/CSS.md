@@ -81,6 +81,4 @@ II. Chapter 11: Color
         iii. Lightness: "Lightness is represented as a percentage. 0% lightness is black, 100% lightness is white, and 50% lightness is normal. Lightness is sometimes referred to as luminosity."
     D. HSL and HSLA: the alpha represents transparency, with a value between 0 and 1. 
 
-<!-- <a href="README.md"><button type="button">Home</button></a> -->
-
 [<--Home-->](../README.md)
