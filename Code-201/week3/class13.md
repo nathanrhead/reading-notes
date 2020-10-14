@@ -4,7 +4,7 @@
 
 ### [The Past, Present, & Future of Local Storage for Web Applications](http://diveinto.html5doctor.com/storage.html){:target="_blank" rel="noopener"}
 
-I. Cookies: 
+I. Cookies:
 
   A. "invented early in the web’s history,[sic] and . . . can be used for persistent local storage of small amounts of data.
 
