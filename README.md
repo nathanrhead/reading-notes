@@ -18,7 +18,14 @@
 + [Week 1](Code-201/week1/201week1.md){:target="_blank" rel="noopener"}
 + [Week 2](Code-201/week2/201week2.md){:target="_blank" rel="noopener"}
 + [Week 3](Code-201/week3/201week3.md){:target="_blank" rel="noopener"}
-+ [Week 4](Code-201/week4/201week4.md){:target="_blank" rel="noopener"}
+
+---
+
+### Code 301
+
++ [Week 1](Code-301/week1/301week1.md){:target="_blank" rel="noopener"}
++ [Week 2](Code-301/week2/301week2.md){:target="_blank" rel="noopener"}
++ [Week 3](Code-301/week3/301week3.md){:target="_blank" rel="noopener"}
 
 ---
 
