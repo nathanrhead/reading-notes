@@ -4,7 +4,7 @@
 
 ---
 
-### Code 101
+### Code 102: Introduction to Software Development
 
 + Day 1: [Mindset](Code-102/MINDSET.md){:target="_blank" rel="noopener"} and [Markdown](Code-102/MARKDOWN.md){:target="_blank" rel="noopener"} and [Text Editors](Code-102/TEXTEDITORS.md){:target="_blank" rel="noopener"}
 + Day 2: [About Git](Code-102/ABOUTGIT.md){:target="_blank" rel="noopener"} and [HTML](Code-102/HTML.md){:target="_blank" rel="noopener"}
@@ -13,7 +13,7 @@
 
 ---
 
-### Code 201
+### Code 201: Foundations of Software Development
 
 + [Week 1](Code-201/week1/201week1.md){:target="_blank" rel="noopener"}
 + [Week 2](Code-201/week2/201week2.md){:target="_blank" rel="noopener"}
@@ -21,11 +21,15 @@
 
 ---
 
-### Code 301
+### Code 301: Intermediate Software Development
 
 + [Week 1](Code-301/week1/301week1.md){:target="_blank" rel="noopener"}
 + [Week 2](Code-301/week2/301week2.md){:target="_blank" rel="noopener"}
 + [Week 3](Code-301/week3/301week3.md){:target="_blank" rel="noopener"}
+
+---
+
+### Code 401: Advanced Software Development
 
 ---
 
