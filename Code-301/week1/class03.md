@@ -2,8 +2,7 @@
 
 ## Class 03 Reading Notes
 
-### ["Javascript Templating Language and Engine: Mustache.js with Node and Express"]
-(https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+### ["Javascript Templating Language and Engine: Mustache.js with Node and Express"](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
 
 I. Templating
 
