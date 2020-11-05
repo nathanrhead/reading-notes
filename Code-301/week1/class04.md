@@ -1,10 +1,10 @@
 # Code 301 | CSS Grin
 
-## Class 03 Reading Notes
+## Class 04 Reading Notes
 
 ### ["Grid Garden"](https://cssgridgarden.com/)
 
-I. By Codepig (like the froggy flexbox game). 
+I. By Codepig (like the froggy flexbox game).
 
 II. A game in 28 steps to familiarize you with using CSS grid.
 
