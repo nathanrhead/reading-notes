@@ -1,4 +1,4 @@
-# Code 301 | CSS Grin
+# Code 301 | CSS Grid
 
 ## Class 04 Reading Notes
 
