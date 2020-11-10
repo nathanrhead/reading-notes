@@ -42,8 +42,6 @@ VI. Advantages of Node
 
 - JS is ubiquitous, so learning to use node is readily accessible.
 
-VII. 
-
 [<--back](301week1.md)
 
 [<--home-->](../../README.md)
