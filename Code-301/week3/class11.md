@@ -1,4 +1,4 @@
-# Code 301 | EJS = Embedded JavaScript Templating
+# Code 301 | EJS = Enhanced JavaScript Templating
 
 ## Class 11 Reading Notes
 
@@ -58,6 +58,6 @@ VII. Patials
 
 ### [Tutorial on Using EJS to Template your Node App](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
 
-[<--back](301week1.md)
+[<--back](301week3.md)
 
 [<--home-->](../../README.md)

@@ -1,11 +1,11 @@
-# Code 301 | Functional Programming
+# Code 301 | 
 
-## Class 09 Reading Notes
+## Class 15 Reading Notes
 
-### ["Concepts of Functional Programming in JavaScript"](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+### 
 
 
 
-[<--back](301week1.md)
+[<--back](301week3.md)
 
 [<--home-->](../../README.md)
