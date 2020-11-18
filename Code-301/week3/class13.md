@@ -17,7 +17,6 @@ III. The Action and Method Attributes
 - Action takes a URL or a server route that contains a url in its callback. "The action value should be a file on the server that can handle the incoming data, including ensuring server-side validation."
 
 - "The method attribute defines how data is sent. The HTTP protocol provides several ways to perform a request; HTML form data can be transmitted via a number of different methods, the most common being the GET method and the POST method."
-
 IV. GET and POST
 
 - "The GET method is the method used by the browser to ask the server to send back a given resource." It's sent as a key-value pair appended to the browser and takes its name from the name attribute of the input element and its value from the value attribute of the same input element, and looks like this: www.wesite.sample/?key1=value1&key2=value2.
