@@ -31,6 +31,7 @@
 
 ### Code 401: Advanced Software Development
 
++ [Week 0](Code-401/pre-work/401week0.md){:target="_blank" rel="noopener"}
 + [Week 1](Code-401/week1/401week1.md){:target="_blank" rel="noopener"}
 + [Week 2](Code-401/week2/401week2.md){:target="_blank" rel="noopener"}
 + [Week 3](Code-401/week3/401week3.md){:target="_blank" rel="noopener"}
