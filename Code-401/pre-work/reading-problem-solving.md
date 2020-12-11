@@ -92,8 +92,8 @@ IV. What to do when you're stuck
 
 V. Practice
 
-  - coding challenges (the author recommends coderbyte).
-  - video games (the author suggests that well-known, successful business folk use/d video games to develop their problem-solving skills, though probably not with that intent).
+- coding challenges (the author recommends coderbyte).
+- video games (the author suggests that well-known, successful business folk use/d video games to develop their problem-solving skills, though probably not with that intent).
 
 ### ["5 Whys: Getting to the Root of a Problem Quickly"](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
