@@ -67,3 +67,7 @@ V. Conclusion
 
 - Good for adding/removing elements and when you don't know the size of the list (while an array is good when you know the size of the list). 
 - Bad for searching for a single element (while an array would be good for this).
+
+[<--back](401week1.md)
+
+[<--home-->](../../README.md)
