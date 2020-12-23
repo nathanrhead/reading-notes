@@ -8,9 +8,9 @@ I. Questions
 
 - Why is UDP often referred to as a connectionless protocol?: "There is no handshaking required before sending a message" [educative.io](https://www.educative.io/edpresso/what-is-udp), meaning that no connection need be established prior to the transmission of data [sciencedirect.com](https://www.sciencedirect.com/topics/computer-science/connectionless-protocol#:~:text=DNS%2C%20TFTP%2C%20and%20many%20other,the%20payload%20is%20not%20corrupted.)
 
-- Can a socket-server application have multiple socket connections?:
+- Can a socket-server application have multiple socket connections?: Yes.
 
-- Can a socket-connection application be connected to multiple socket servers?:
+- Can a socket-connection application be connected to multiple socket servers?: Yes.
 
 - Can an application be both a socket server and a socket connection?: Yes, if you use two different ports or the sockets won't function simultaneously.
 
