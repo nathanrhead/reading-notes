@@ -42,4 +42,14 @@ A. False: the descendent of the root is a "child," the direct forbear of a child
 Q. How is the height of a tree calculated?
 A. By counting the number of edges between the lowest leaf and the root.
 
+Q. Name the two methods used to traverse a binary tree.
+A. Depth-first traversal and breadth-first traversal.
 
+Q. What's the difference between a tree and a binary tree?
+A. While the node of a tree may have an infinite number of children, a node of a binary tree may only have two, a left and a right.
+
+Q. What's the fastest and most Big-O efficient way to traverse a binary tree?
+A. By making the tree a binary search tree, so that all left values are smaller than the root (in all cases) and all right values are bigger (in all cases). 
+
+Q. How does one determine whether a string as a value is bigger or smaller in a binary search tree?
+A. Nobody knows.
