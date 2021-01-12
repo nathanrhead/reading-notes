@@ -37,7 +37,14 @@
 + [Week 3](Code-401/week3/401week3.md){:target="_blank" rel="noopener"}
 + [Week 4](Code-401/week4/401week4.md){:target="_blank" rel="noopener"}
 
++ [Week 6](Code-401/week6/401week6.md){:target="_blank" rel="noopener"}
++ [Week 7](Code-401/week7/401week7.md){:target="_blank" rel="noopener"}
++ [Week 8](Code-401/week8/401week8.md){:target="_blank" rel="noopener"}
++ [Week 9](Code-401/week9/401week9.md){:target="_blank" rel="noopener"}
+
 ---
+
+
 
 ## About Me
 
