@@ -8,7 +8,7 @@ I. Questions
 
 - How can the server be assured a message was properly received?
 
-- What classic design pattern is best represented by event-driven programming?: object-oriented design?
+- What classic design pattern is best represented by event-driven programming?: the singleton, because there's only one instance of each event?
 
 - How do you test an event-driven system?: by logging and time-stamping those logs; by using an aggregration framework to collect the logs for anaylysis. Use the method of distributed traciing to understand a system's dataflow. Still have to do unit tests, though these are harder, because the whole messaging scaffolding has to be set up before a test can be writen and performed. Automation of the testing is required. (From ["Testing Event-Driven Application Architectures: An Asynchronous Approach"](https://blog.gurock.com/event-driven-application-architectures/)).
 
