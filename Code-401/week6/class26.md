@@ -1,4 +1,4 @@
-# Code 401 | [TOPIC]
+# Code 401 | Component Based UI
 
 ## Class 26 Reading Notes
 
