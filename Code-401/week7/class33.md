@@ -30,19 +30,19 @@ III. Preview Links
 
 IV. Questions to Guide Reading
 
-1. Which 3 things had you heard about previously and now have better clarity on?
+A. Which 3 things had you heard about previously and now have better clarity on?
 
 - Memoization
 - Hooks
 - Context
 
-2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+B. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
 - Context
 - useReducer()
 - How to pass "props" without passing "props"? Or, rather, is it okay to use hooks AND pass props when convenient?
 
-3. What are you most excited about trying to implement or see how it works?: context.
+C. What are you most excited about trying to implement or see how it works?: context.
 
 [<--back](401week7.md)
 
