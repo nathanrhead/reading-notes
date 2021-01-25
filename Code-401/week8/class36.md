@@ -22,7 +22,8 @@ II. Vocabulary
 
 III. Preview Links
 
-- ["Getting Started with Redux"](Getting Started with Redux)
+- ["Getting Started with Redux"](https://egghead.io/courses/getting-started-with-redux)
+- [Redux Quick Start](https://react-redux.js.org/introduction/quick-start)
 
 IV. Questions about the Preview
 
