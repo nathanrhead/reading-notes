@@ -1,6 +1,6 @@
 # Code 401 | Ethics in Tech
 
-## Class 41 Reading Notes
+## Class 42 Reading Notes
 
 I. To Skim
 
