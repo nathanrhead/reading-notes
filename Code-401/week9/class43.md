@@ -23,7 +23,7 @@ III. Preview Links
 - ["Tutorial: Learn how Gatsby works"](https://www.gatsbyjs.com/docs/tutorial/)
 - ["Welcome to the Gatsby Way of Building"](https://www.gatsbyjs.com/docs/)
 - [AngularJS](https://angularjs.org/)
-- [Angulary: "The modern web developer's platform"](https://angular.io/)
+- [Angular: "The modern web developer's platform"](https://angular.io/)
 - [Vue](https://vuejs.org/)
 - [BackbonesJS](https://backbonejs.org/)
 - [EmberJS](https://emberjs.com/)
